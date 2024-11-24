@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stanley Chimdiebere Edike</h1>
 <h3 align="center">Data Analyst from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chidosky44&label=Profile%20views&color=0e75b6&style=flat" alt="chidosky44" /> </p>
+With solid background in Economics and hands-on experience in business analytics, risk assessment, and auditing. Skilled in Excel, SQL, Power Bi & improving in python
+
+My professional experience spans various industries, including roles as an Internal Auditor and Risk Advisor, where I contributed to data-driven decision-making and risk management. I hold certifications in Business Analytics and Data Analysis from LinkedIn, kaggle and Simplilearn, which complement my academic and practical background.
+
+Technical Skills:
+Data Analysis, Excel (including VLOOKUP, HLOOKUP), SQL, Power Bi.
+
+Soft Skills:
+Problem-Solving, Leadership, Communication, Attention to Detail.
 
 - 🔭 I currently worked on [Covid_19 dataset](https://docs.google.com/spreadsheets/d/1HSmlETVa5O49ArSqsCNoAAJbY_RSgNlP/edit?usp=drive_link&ouid=103320491715684392970&rtpof=true&sd=true)
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m looking to collaborate on **Other project from kaggle**
 
 - 💬 Ask me about **Data analysis with excel, power BI and SQL**
 
