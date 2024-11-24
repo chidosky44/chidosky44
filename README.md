@@ -5,13 +5,13 @@
 
 - 🔭 I currently worked on [Covid_19 dataset](https://docs.google.com/spreadsheets/d/1HSmlETVa5O49ArSqsCNoAAJbY_RSgNlP/edit?usp=drive_link&ouid=103320491715684392970&rtpof=true&sd=true)
 
-- 🌱 I’m currently learning **power_Bi, sql and python**
+- 🌱 I’m currently learning **python**
 
 - 👯 I’m looking to collaborate on **Other project from kaggle**
 
-- 💬 Ask me about **Data analysis with excel**
+- 💬 Ask me about **Data analysis with excel, power BI and SQL**
 
-- 📫 How to reach me **chidosky44@gmail.com**
+- 📫 How to reach me **chidosky44@gmail.com or edikestanley@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
