@@ -3,7 +3,7 @@
 
 With solid background in Economics and hands-on experience in business analytics, risk assessment, and auditing. Skilled in Excel, SQL, Power Bi & improving in python
 
-My professional experience spans various industries, including roles as an Internal Auditor and Risk Advisor, where I contributed to data-driven decision-making and risk management. I hold certifications in Business Analytics and Data Analysis from LinkedIn, kaggle and Simplilearn, which complement my academic and practical background.
+My professional experience spans various industries, including managerial roles, an Internal Auditor and Risk Advisor, where I contributed to data-driven decision-making and risk management. I hold certifications in Business Analytics and Data Analysis from LinkedIn, kaggle and Simplilearn, which complement my academic and practical background.
 
 Technical Skills:
 Data Analysis, Excel (including VLOOKUP, HLOOKUP), SQL, Power Bi.
